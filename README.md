@@ -10,6 +10,7 @@
 - **File Management**: Users can download or delete their uploaded files.
 - **Secure Uploads**: Files are uploaded with a secret key to ensure secure uploads.
 - **File Deletion**: Users can delete files with a confirmation prompt to prevent accidental deletion.
+- **Access Your Documents Anywhere**: As long as you have an internet connection, you can securely access your uploaded documents from any device.
 
 ## Technology Stack
 
@@ -21,9 +22,11 @@
 
 ### 1. Prerequisites
 
-- PHP installed on your server (or local machine)
-- MySQL database set up
-- A web server such as Apache or Nginx
+- Xampp/Wampp installed on your server
+-  PHP 7.4 or higher
+-  MySQL 5.7 or higher
+-  IDE (VSCode)
+
 
 ### 2. Installation
 
@@ -69,7 +72,7 @@
    - Default credentials:
      ```
      Username: admin
-     Password: password123
+     Password: password
      ```
 
 2. **Upload Files**:
