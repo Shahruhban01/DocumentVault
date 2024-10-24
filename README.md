@@ -1,7 +1,3 @@
-Here’s a suggested `README.md` file for your **Document Vault** website:
-
----
-
 # Document Vault
 
 **Document Vault** is a secure web application that allows users to upload, manage, and download files such as images, PDFs, and text files. The application ensures that only authenticated users can access the files, making it a personal, secure vault for storing documents.
@@ -96,7 +92,3 @@ Here’s a suggested `README.md` file for your **Document Vault** website:
 - Stronger encryption for uploaded files.
 - Role-based access control for more granular user permissions.
 - Improved file type validation for enhanced security.
-
----
-
-Feel free to customize this README to your needs!
