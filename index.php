@@ -33,6 +33,7 @@ $error_message = (isset($_SESSION['error_message']))  ? $_SESSION['error_message
 </head>
 
 <body>
+
     <div class="container">
         <div class="form-card">
             <a href="logout.php" class="btn btn-danger">Logout</a>
